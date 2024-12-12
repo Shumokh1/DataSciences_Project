@@ -19,8 +19,9 @@ This repository contains a comprehensive data science project aimed at analyzing
 
 ### 3. **Visualizations**
 - Distribution and density plots of ratings and sentiments across themes.
+- Number of positive, neutral, and negative reviews.
 - Geographical distribution of attractions using scatter plots.
-- Sentiment trends and review counts across different categories.
+- Number of reviews for each theme.
 
 ### 4. **Recommendation System**
 - Utilizes **TF-IDF vectorization** and **cosine similarity** to suggest similar destinations based on themes and visitor preferences.
