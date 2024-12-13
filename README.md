@@ -45,11 +45,6 @@ This repository contains a comprehensive data science project aimed at analyzing
   - Integration of traveler personas for deeper insights.
   - Advanced modeling and predictive analytics.
 
-## How to Use
-- **Setup**: Clone the repository and install dependencies listed in `requirements.txt`.
-- **Dataset**: Preprocessed datasets are available in the `data/processed/` folder.
-- **Run Notebooks**: Explore analyses and visualizations in the Jupyter Notebooks.
-- **Recommendation System**: Use the `recommend()` function in the model script to get destination suggestions.
 
 ## Acknowledgments
 This project was developed using public datasets and openly accessible tools. We thank TripAdvisor, Google Maps, and the contributors of the Kaggle datasets for their valuable resources.
