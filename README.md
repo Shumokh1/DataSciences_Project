@@ -8,8 +8,17 @@ This repository contains a comprehensive data science project aimed at analyzing
 - **Sources**: Data scraped from **TripAdvisor**, **Google Maps**, and two **Kaggle** datasets:
   - [Entertainment Destinations in Saudi Arabia](https://www.kaggle.com/datasets/anas123siddiqui/entertainment-in-saudi-arabia)
   - [Cafe Shops in Riyadh](https://www.kaggle.com/datasets/riybot/riyadh-cafes)
-- **Data Includes**: **Tourist destination names, ratings, reviews, locations, descriptions, and themes.**
 - **Scraping and Cleaning**: Implemented preprocessing steps to normalize and integrate multiple data sources.
+
+  
+## Codebook for Relevant Variables
+- **name**: Name of the destination.
+- **rating**: Numerical rating given by users (1–5).
+- **text_sentiment**: Sentiment classification inferred from reviews (positive, neutral, negative).
+- **theme**: Categorical description of the type of destination (e.g., "Points of Interest," "Religious Sites").
+- **latitude** and **longitude**: Geographical coordinates of the destination.
+- **number_of_reviews**: Total count of reviews for each destination.
+
 
 ### 2. **Data Preprocessing**
 - Deduplication and standardization of place names and themes.
