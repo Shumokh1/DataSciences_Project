@@ -5,10 +5,10 @@ This repository contains a comprehensive data science project aimed at analyzing
 ## Key Features
 
 ### 1. **Data Collection and Integration**
-- **Sources**: Data from TripAdvisor, Google Maps, and two Kaggle datasets:
+- **Sources**: Data scraped from **TripAdvisor**, **Google Maps**, and two **Kaggle** datasets:
   - [Entertainment Destinations in Saudi Arabia](https://www.kaggle.com/datasets/anas123siddiqui/entertainment-in-saudi-arabia)
   - [Cafe Shops in Riyadh](https://www.kaggle.com/datasets/riybot/riyadh-cafes)
-- **Data Includes**: Tourist destination names, ratings, reviews, locations, descriptions, and themes.
+- **Data Includes**: **Tourist destination names, ratings, reviews, locations, descriptions, and themes.**
 - **Scraping and Cleaning**: Implemented preprocessing steps to normalize and integrate multiple data sources.
 
 ### 2. **Data Preprocessing**
