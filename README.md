@@ -24,8 +24,8 @@ This repository contains a comprehensive data science project aimed at analyzing
 - Number of reviews for each theme.
 
 ### 4. **Recommendation System**
-- Utilizes **TF-IDF vectorization** and **cosine similarity** to suggest similar destinations based on themes and visitor preferences.
-- Provides detailed outputs, including destination names, subtypes, ratings, and URLs.
+- Utilizes **TF-IDF vectorization** and **cosine similarity** to suggest similar destinations based on themes.
+- Provides detailed outputs, including destination names, themes, ratings, and URLs.
 
 ### 5. **Insights and Analysis**
 - Highlights key trends in visitor engagement, sentiment, and geographical clustering.
