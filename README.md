@@ -67,8 +67,8 @@ This project was developed using public datasets and openly accessible tools. We
 
 Contributors: 
 
-**Deema Hamidah
+Deema Hamidah
 
 Shumokh Abdullah
 
-Hadeel Balahmar**
+Hadeel Balahmar
