@@ -1,4 +1,4 @@
-# Tourism Analytics and Recommendation System for Saudi Arabia
+# Smarter Sustainable Tourism: Building a High-Quality Dataset for the Future of Tourism Analytics in Saudi Arabia
 
 This repository contains a comprehensive data science project aimed at analyzing and improving tourism experiences in Saudi Arabia. The project integrates datasets, performs detailed sentiment and trend analyses, and provides a recommendation system for tourist destinations. It aligns with Saudi Arabia's Vision 2030 goals by leveraging data to promote tourism and enhance visitor satisfaction.
 
