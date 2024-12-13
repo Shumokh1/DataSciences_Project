@@ -13,12 +13,17 @@ This repository contains a comprehensive data science project aimed at analyzing
   
 ## Codebook for Relevant Variables
 - **name**: Name of the destination.
-- **rating**: Numerical rating given by users (1–5).
+- **PlaceRating**: Numerical rating given by users (1–5) to the place.
+- **number_of_reviews**: Total count of reviews for each destination.
+- **Reviews**: Comments given by users for the places.
+- **ReviewRating**: rating with the review.
 - **text_sentiment**: Sentiment classification inferred from reviews (positive, neutral, negative).
 - **theme**: Categorical description of the type of destination (e.g., "Points of Interest," "Religious Sites").
 - **latitude** and **longitude**: Geographical coordinates of the destination.
-- **number_of_reviews**: Total count of reviews for each destination.
-
+- **address** The full postal or descriptive address of the destination.
+- **webUrl** URL to the place’s page on platforms like TripAdvisor or Google Maps, allowing users to find additional details, reviews, and directions.
+- **website** The official website or a direct link associated with the destination, if available. Often used to find more detailed or official information about the attraction.
+- **description**  A textual overview of the destination, summarizing its key attractions, features, and significance.
 
 ### 2. **Data Preprocessing**
 - Deduplication and standardization of place names and themes.
