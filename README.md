@@ -51,7 +51,6 @@ This repository contains a comprehensive data science project aimed at analyzing
 - Popular clusters around major urban hubs like Riyadh, Jeddah, and Dammam.
 
 ## Limitations and Future Directions
-- **Data Completeness**: Some regions and themes may be underrepresented.
 - **Sentiment Analysis**: Ratings-based sentiment categorization could be enhanced with advanced NLP techniques.
 - **Dynamic Nature**: Data reflects a snapshot and requires updates for new trends.
 - **Expansion Plans**:
